@@ -5,7 +5,7 @@ void main() {
       nome: 'juliano',
       email: 'julianokeil277@gmail.com',
       idade: 35,
-      cep: '777777-99'); //           !!!!!    SUA MAE GORDA    !!!!!!
+      cep: '777777-99');
 }
 
 void criarLogin(String email, [String senha = '123456']) {
